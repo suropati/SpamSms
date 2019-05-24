@@ -10,7 +10,7 @@ class Main:
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 		;       S P A M  S M S      ;
 		;---------------------------;
-		; Author : Kang-newbie      ;
+		; Author : Kang-sego      ;
 		; Contact : t.me/kang_nuubi ;
 		;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
